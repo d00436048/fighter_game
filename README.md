@@ -1,4 +1,4 @@
-# 🕹️ FIGHTER GAME
+# FIGHTER GAME
 
 Fighter game is a 2d pixel brawler game inspired by street fighter. I originally made it
 learn Pygame and better understand scene management, asset creation, sprite animation, graphics,
